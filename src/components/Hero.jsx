@@ -3,7 +3,7 @@ const Hero = () => {
     <div
       className="hero min-h-screen"
       style={{
-        backgroundImage: "url(http://localhost:5173/test.webp)",
+        backgroundImage: "url(https://azbloom.vercel.app/test.webp)",
       }}
     >
       <div className="hero-overlay bg-opacity-60"></div>

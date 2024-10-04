@@ -11,7 +11,7 @@ const Navbar = () => {
               <a href="#about">Haqqımızda</a>
             </li>
             <li>
-              <a>Gerçəkləşmə Planı</a>
+              <a href="#plan">Gerçəkləşmə Planı</a>
             </li>
           </ul>
         </div>

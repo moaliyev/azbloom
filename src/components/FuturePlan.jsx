@@ -1,6 +1,9 @@
 const FuturePlan = () => {
   return (
-    <div className="sm:w-9/12 container m-auto flex flex-col items-center pt-16">
+    <div
+      id="#plan"
+      className="sm:w-9/12 container m-auto flex flex-col items-center pt-16"
+    >
       <h2 className="text-3xl text-gray-200 pb-10">Gerçəkləşdirmə Planı</h2>
       <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
         <li>
