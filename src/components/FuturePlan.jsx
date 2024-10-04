@@ -1,7 +1,7 @@
 const FuturePlan = () => {
   return (
     <div
-      id="#plan"
+      id="plan"
       className="sm:w-9/12 container m-auto flex flex-col items-center pt-16"
     >
       <h2 className="text-3xl text-gray-200 pb-10">Gerçəkləşdirmə Planı</h2>
