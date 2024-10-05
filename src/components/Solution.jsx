@@ -9,7 +9,7 @@ const Solution = () => {
       </ul>
 
       <div className="flex flex-col items-center gap-4">
-        <img src="http://localhost:5173/test_2.png" alt="Autoburrow" />
+        <img src="https://azbloom.vercel.app/test_2.png" alt="Autoburrow" />
         <h2 className="text-xl text-center">
           Autoburrow <br /> Toxum Kapsulu
         </h2>
